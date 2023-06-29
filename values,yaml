@@ -1,0 +1,2 @@
+appName: catalogue
+params: "prod.catalogue.mongo_url prod.catalogue.documentdb"
